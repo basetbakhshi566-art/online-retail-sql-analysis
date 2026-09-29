@@ -1,0 +1,6 @@
+*.db
+*.xlsx
+*.zip
+.build/
+__pycache__/
+query_outputs.txt
